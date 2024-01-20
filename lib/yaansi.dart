@@ -1,4 +1,4 @@
-/// Yet another ANSI implementation to color your terminal!
+/// Yet another ANSI implementation! A utility package to color your terminal.
 ///
 /// ## Usage
 ///

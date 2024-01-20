@@ -1,6 +1,6 @@
 # yaansi
 
-Yet another ANSI implementation to color your terminal!
+Yet another ANSI implementation! A utility package to color your terminal.
 
 Notable source: https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797
 
