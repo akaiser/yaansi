@@ -1,3 +1,7 @@
+## 1.0.0
+
+- Raise dart sdk to 3.3.0.
+
 ## 0.9.1
 
 - Update docs.
