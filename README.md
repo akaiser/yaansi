@@ -36,6 +36,8 @@ void main() {
 }
  ```
 
+![example output](images/example.png)
+
 ## Notes
 
 - Supports only basic colors and modes.

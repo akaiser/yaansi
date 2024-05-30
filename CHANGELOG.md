@@ -1,3 +1,7 @@
+## 1.0.1
+
+- Add image for example.
+
 ## 1.0.0
 
 - Raise dart sdk to 3.3.0.
