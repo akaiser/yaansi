@@ -1,7 +1,7 @@
 name: yaansi
 description: Yet another ANSI implementation! A utility package to color your terminal.
 repository: https://github.com/akaiser/yaansi
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: ^3.3.0

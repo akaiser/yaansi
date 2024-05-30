@@ -36,7 +36,7 @@ void main() {
 }
  ```
 
-![example output](images/example.png)
+![example output](https://raw.githubusercontent.com/akaiser/yaansi/main/images/example.png)
 
 ## Notes
 
