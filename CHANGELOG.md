@@ -1,10 +1,14 @@
+## 1.1.0
+
+- Require Dart `^3.4.0`.
+
 ## 1.0.2
 
 - Add image for example.
 
 ## 1.0.0
 
-- Raise dart sdk to 3.3.0.
+- Require Dart `^3.3.0`.
 
 ## 0.9.1
 
