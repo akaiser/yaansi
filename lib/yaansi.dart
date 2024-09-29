@@ -31,7 +31,7 @@
 ///   print(style.apply('Two'));
 /// }
 /// ```
-library yaansi;
+library;
 
 export 'src/yaansi_color.dart';
 export 'src/yaansi_func.dart';
