@@ -6,7 +6,7 @@ void main() {
     expect(YaansiColor.values, hasLength(8));
   });
 
-  for (final combination in [
+  for (final combination in const [
     (YaansiColor.black, 90, 39, 100, 49),
     (YaansiColor.red, 91, 39, 101, 49),
     (YaansiColor.green, 92, 39, 102, 49),

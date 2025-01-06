@@ -6,7 +6,7 @@ void main() {
     expect(YaansiMode.values, hasLength(4));
   });
 
-  for (final combination in [
+  for (final combination in const [
     (YaansiMode.bold, 1, 22),
     (YaansiMode.italic, 3, 23),
     (YaansiMode.underline, 4, 24),
