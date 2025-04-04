@@ -1,5 +1,6 @@
 ## 1.3.0
 
+- Update docs.
 - Require Dart `^3.6.0`.
 
 ## 1.2.0

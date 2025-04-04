@@ -6,12 +6,14 @@ Notable source: https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797
 
 ## Usage
 
-Install:
+### Installation
+
 ```bash
 dart pub add yaansi
 ```
 
-Use:
+### Example:
+
 ```dart
 import 'package:yaansi/yaansi.dart';
 
